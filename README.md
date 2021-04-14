@@ -4,6 +4,7 @@
 
 ### `AWS Certification Journey Notes`
 
+</br>
 
 1. #### `AWS Certified Cloud Practitioner` [URL](https://aws.amazon.com/certification/certified-cloud-practitioner/?ch=cta&cta=header&p=2)
     The AWS Certified Cloud Practitioner examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS Certifications.
@@ -16,4 +17,17 @@
 
 4. #### `AWS Certified Solutions Architect - Professional` [URL](https://aws.amazon.com/certification/certified-solutions-architect-professional/?ch=sec&sec=rmg&d=1)
     The AWS Certified Solutions Architect – Professional exam is intended for individuals who perform a solutions architect role with two or more years of hands-on experience managing and operating systems on AWS.
+
+
+
+### `Fundamentals`
+
+#### Types of Cloud Computing
+1. LAAS (Infrastructure as a service)
+2. PAAS (Platform as a service)
+3. SAAS (Software as a service)
+
+1. What are Regions?
+2. How to choose region?
+3. What are Availability Zones?
 
