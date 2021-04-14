@@ -31,3 +31,10 @@
 2. How to choose region?
 3. What are Availability Zones?
 
+### `IAM (Identity and Access Management)`
+1. Users and Groups
+2. Policies
+3. MFA
+4. Roles 
+5. Security Tools
+
